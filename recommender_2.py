@@ -71,7 +71,7 @@ def get_recommendations(title, cosine_sim=cosine_sim):
 
 
 
-get_recommendations('The Avengers')
+get_recommendations('Minions')
 
 
 

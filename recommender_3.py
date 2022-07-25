@@ -131,4 +131,4 @@ def get_recommendations(title, cosine_sim=cosine_sim2):
 
 
 
-get_recommendations('Avatar', cosine_sim2)
+get_recommendations('Fugly', cosine_sim2)
